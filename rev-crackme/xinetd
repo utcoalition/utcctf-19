@@ -1,0 +1,15 @@
+service chall
+{
+    disable     = no
+    type        = unlisted
+    socket_type = stream
+    protocol    = tcp
+    wait        = no
+    user        = 1000
+    server      = /usr/bin/timeout
+    server_args = -s KILL 100 /crackme
+    port	      = 1337
+    per_source  = 5
+    rlimit_cpu  = 1
+    nice        = 18
+}

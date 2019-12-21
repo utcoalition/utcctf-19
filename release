@@ -1,0 +1,27 @@
+18:00: pwn1, re1
+19:00: misc1, crypto1
+20:00: re2
+22:00: pwn2, crypto2
+23:00: misc2
+00:00: re3
+01:00: crypto3
+03:00: misc3
+04:00: re4 crypto4
+
+17:00: simplebof, poorlogin, mixtape, baby jheap, random hash, rsacue, 
+not radio, ezip, coredump 1/2, strings
+18:00: relentless 1, jump, relentless flag
+19:00: optics 1/2, dilbert message, enigma zwei, bbb
+20:00: crackme, stack
+22:00: newton, cryptohammer, dmanc_zkp?
+23:00: balex_misc2, bash jail, add rotate xor
+00:00: firmware
+01:00: rsandom, otp
+03:00: misc3
+04:00: login auth, dreamer_windows, curve it up
+
+17:00: 35235, 13226, 36525, 64372, 5991, 4902
+18:00: 43335???
+19:00: 62096
+22:00: 64116, zkp?
+23:00: 53177, 19918

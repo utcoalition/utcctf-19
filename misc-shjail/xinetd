@@ -1,0 +1,15 @@
+service chall
+{
+    disable     = no
+    type        = unlisted
+    socket_type = stream
+    protocol    = tcp
+    wait        = no
+    user        = jail
+    server      = /usr/bin/timeout
+    server_args = -s KILL 300 /bin/bash
+    port	      = 1337
+    per_source  = 5
+    rlimit_cpu  = 5
+    nice        = 18
+}

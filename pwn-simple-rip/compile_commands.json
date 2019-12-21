@@ -1,0 +1,41 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-m32",
+            "-fno-stack-protector",
+            "-o",
+            "bof",
+            "safeguard.c"
+        ],
+        "directory": "/home/henry/git/utcctf-19/bof",
+        "file": "safeguard.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-m32",
+            "-fno-stack-protector",
+            "-o",
+            "bof",
+            "visualize.c"
+        ],
+        "directory": "/home/henry/git/utcctf-19/bof",
+        "file": "visualize.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-m32",
+            "-fno-stack-protector",
+            "-o",
+            "bof",
+            "bof.c"
+        ],
+        "directory": "/home/henry/git/utcctf-19/bof",
+        "file": "bof.c"
+    }
+]

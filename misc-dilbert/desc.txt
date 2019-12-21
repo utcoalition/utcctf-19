@@ -1,0 +1,6 @@
+Name: Dilbert's Message
+
+Description: Dilbert has been trying to hide secret messages from his pointy-haired boss in these weird memes. Can you find the message he hid in this one?
+
+Files included:
+dilbert.bmp
